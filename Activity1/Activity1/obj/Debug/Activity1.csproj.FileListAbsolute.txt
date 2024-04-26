@@ -1,0 +1,15 @@
+C:\Users\COMLAB506\Documents\FEDERIS\Activity1\Activity1\bin\Debug\Activity1.exe.config
+C:\Users\COMLAB506\Documents\FEDERIS\Activity1\Activity1\bin\Debug\Activity1.exe
+C:\Users\COMLAB506\Documents\FEDERIS\Activity1\Activity1\bin\Debug\Activity1.pdb
+C:\Users\COMLAB506\Documents\FEDERIS\Activity1\Activity1\obj\Debug\Activity1.csproj.AssemblyReference.cache
+C:\Users\COMLAB506\Documents\FEDERIS\Activity1\Activity1\obj\Debug\Activity1.Form1.resources
+C:\Users\COMLAB506\Documents\FEDERIS\Activity1\Activity1\obj\Debug\Activity1.Form2.resources
+C:\Users\COMLAB506\Documents\FEDERIS\Activity1\Activity1\obj\Debug\Activity1.Properties.Resources.resources
+C:\Users\COMLAB506\Documents\FEDERIS\Activity1\Activity1\obj\Debug\Activity1.csproj.GenerateResource.cache
+C:\Users\COMLAB506\Documents\FEDERIS\Activity1\Activity1\obj\Debug\Activity1.csproj.CoreCompileInputs.cache
+C:\Users\COMLAB506\Documents\FEDERIS\Activity1\Activity1\obj\Debug\Activity1.exe
+C:\Users\COMLAB506\Documents\FEDERIS\Activity1\Activity1\obj\Debug\Activity1.pdb
+C:\Users\COMLAB506\Documents\FEDERIS\Activity1\Activity1\obj\Debug\Activity1.SquareForm.resources
+C:\Users\COMLAB506\Documents\FEDERIS\Activity1\Activity1\obj\Debug\Activity1.RectForm.resources
+C:\Users\COMLAB506\Documents\FEDERIS\Activity1\Activity1\obj\Debug\Activity1.CircleForm.resources
+C:\Users\COMLAB506\Documents\FEDERIS\Activity1\Activity1\obj\Debug\Activity1.TriangleForm.resources
