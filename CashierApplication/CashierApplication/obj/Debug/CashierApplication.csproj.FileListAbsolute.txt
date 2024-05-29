@@ -1,0 +1,10 @@
+C:\Users\Francis\source\repos\CashierApplication\CashierApplication\bin\Debug\CashierApplication.exe.config
+C:\Users\Francis\source\repos\CashierApplication\CashierApplication\bin\Debug\CashierApplication.exe
+C:\Users\Francis\source\repos\CashierApplication\CashierApplication\bin\Debug\CashierApplication.pdb
+C:\Users\Francis\source\repos\CashierApplication\CashierApplication\obj\Debug\CashierApplication.csproj.AssemblyReference.cache
+C:\Users\Francis\source\repos\CashierApplication\CashierApplication\obj\Debug\CashierApplication.frmDiscountedPurchaseItem.resources
+C:\Users\Francis\source\repos\CashierApplication\CashierApplication\obj\Debug\CashierApplication.Properties.Resources.resources
+C:\Users\Francis\source\repos\CashierApplication\CashierApplication\obj\Debug\CashierApplication.csproj.GenerateResource.cache
+C:\Users\Francis\source\repos\CashierApplication\CashierApplication\obj\Debug\CashierApplication.csproj.CoreCompileInputs.cache
+C:\Users\Francis\source\repos\CashierApplication\CashierApplication\obj\Debug\CashierApplication.exe
+C:\Users\Francis\source\repos\CashierApplication\CashierApplication\obj\Debug\CashierApplication.pdb
