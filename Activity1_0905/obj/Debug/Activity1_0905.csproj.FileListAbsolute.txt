@@ -1,0 +1,10 @@
+C:\Users\COMLAB506\source\repos\Activity1_0905\Activity1_0905\obj\Debug\Activity1_0905.csproj.AssemblyReference.cache
+C:\Users\COMLAB506\source\repos\Activity1_0905\Activity1_0905\obj\Debug\Activity1_0905.Form1.resources
+C:\Users\COMLAB506\source\repos\Activity1_0905\Activity1_0905\obj\Debug\Activity1_0905.Properties.Resources.resources
+C:\Users\COMLAB506\source\repos\Activity1_0905\Activity1_0905\obj\Debug\Activity1_0905.csproj.GenerateResource.cache
+C:\Users\COMLAB506\source\repos\Activity1_0905\Activity1_0905\obj\Debug\Activity1_0905.csproj.CoreCompileInputs.cache
+C:\Users\COMLAB506\source\repos\Activity1_0905\Activity1_0905\bin\Debug\Activity1_0905.exe.config
+C:\Users\COMLAB506\source\repos\Activity1_0905\Activity1_0905\bin\Debug\Activity1_0905.exe
+C:\Users\COMLAB506\source\repos\Activity1_0905\Activity1_0905\bin\Debug\Activity1_0905.pdb
+C:\Users\COMLAB506\source\repos\Activity1_0905\Activity1_0905\obj\Debug\Activity1_0905.exe
+C:\Users\COMLAB506\source\repos\Activity1_0905\Activity1_0905\obj\Debug\Activity1_0905.pdb
